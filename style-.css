@@ -1,0 +1,98 @@
+body{
+background-color:hsl(27, 61%, 73%);
+ font-size: 11px; 
+ text-align: justify;
+margin: 0%;
+font-family: 'Montserrat';
+}
+p{
+    font-size: 14px;
+    font-weight: 500 700;
+    padding-left: 10%;
+    padding-right:10%;  
+    text-align: justify;
+    line-height: ;
+}
+h3{
+    color:  hsl(228, 12%, 48%);
+    margin-right: 150px;
+    margin-top: 20px; 
+    text-align: justify;
+    padding-left:10%; 
+    
+}
+.new-price{
+    font-family:'Fraunces', serif;
+color:hsl(212, 21%, 14%);
+font-size: 30px;
+font-weight: 800,500 ;
+margin-right: 100px;
+float: left;
+margin: 0;
+}
+.old-price{
+text-decoration: line-through;
+}
+a{
+ margin-top: 20px;
+ padding-left: 10%;
+}
+
+.bold{
+    font-family: 'Fraunces', serif;
+font-size: 25px;
+font-weight: 700;
+line-height: 1;
+margin: 0%;
+}
+.main{
+    
+    background-size: 10% 10%;
+    border-radius: 8px ;
+}
+.img{
+    position: relative;
+    top: 100px;
+    left: 400px;
+float: left;
+width: 250px;
+border-radius: 8px 0px 0 8px ;
+}
+ .container{
+    background-color: #ffffff;
+    position: relative;
+    top: 100px;
+    left: 400px;
+float: left;
+width: 250px;
+height: 375px;
+border-radius: 0 8px 8px 0;
+ }
+ 
+
+  .btn{
+    margin-left: 15%;
+  }  
+ .footer{
+
+    font-size: 11px;
+    text-align: center;
+    margin-top: 30px;
+ }
+ 
+ .btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Montserrat';
+    color: #ffffff;
+    font-size: 13px;
+    background: #2d7356;
+    padding: 10px 39px 13px 50px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3bb379;
+    text-decoration: none;
+  }
